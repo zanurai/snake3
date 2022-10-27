@@ -1,4 +1,4 @@
-//alert("hello")
+alert("hello")
 let inputDir = { x: 0, y: 0 };
 const foodSound = new Audio("eat.mp3");
 const moveSound = new Audio("move.mp3");
